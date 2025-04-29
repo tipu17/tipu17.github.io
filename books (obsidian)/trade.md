@@ -1,0 +1,2 @@
+[[current assets]]
+[[current liabilities]]
